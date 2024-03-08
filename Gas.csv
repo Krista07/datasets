@@ -1,40 +1,43 @@
 ﻿Gas_Station,Date,Time,Gallons,Price,Amount,City,State,Type
-Fry's Fuel,6/21/2021,9:33:00 AM,10.253,$2.65 ,$27.16 ,Phoenix,AZ,Unleaded
-Fry's Fuel,7/17/2021,2:12:00 PM,10.183,$2.89 ,$30.44 ,Phoenix,AZ,Unleaded
-Costco,7/25/2021,4:02:00 PM,11.039,$2.90 ,$32.00 ,Tempe,AZ,Unleaded
-Costco,8/7/2021,3:20:00 PM,10.209,$2.94 ,$30.00 ,Tempe,AZ,Unleaded
-Costco,8/27/2021,5:09:00 PM,9.964,$2.90 ,$28.89 ,Scottsdale,AZ,Unleaded
-Fry's Fuel,3/2/2022,2:29:00 PM,10.148,$3.90 ,$39.57 ,Tempe,AZ,Unleaded
-Costco,7/12/2022,12:44:00 PM,10.803,$4.60 ,$49.68 ,Phoenix,AZ,Unleaded
-Costco,7/30/2022,2:46:00 PM,9.774,$4.14 ,$40.45 ,Phoenix,AZ,Unleaded
-Costco,8/17/2022,2:05:00 PM,9.727,$3.75 ,$36.47 ,Phoenix,AZ,Unleaded
-Costco,9/25/2022,11:41:00 AM,10.036,$4.10 ,$41.14 ,Phoenix,AZ,Unleaded
-Costco,11/7/2022,12:31:00 PM,9.583,$4.19 ,$40.14 ,Phoenix,AZ,Unleaded
-Costco,11/7/2022,12:31:00 PM,9.583,$4.19 ,$40.14 ,Phoenix,AZ,Unleaded
-Costco,11/30/2022,12:27:00 PM,9.679,$3.70 ,$35.80 ,Phoenix,AZ,Unleaded
-Costco,12/16/2022,1:55:00 PM,9.167,$3.26 ,$29.88 ,Phoenix,AZ,Unleaded
-QuikTrip,1/14/2023,5:40:00 PM,9.404,$3.30 ,$31.02 ,Phoenix,AZ,Unleaded
-QuikTrip,3/6/2023,8:38:00 AM,8.739,$3.80 ,$33.20 ,Phoenix,AZ,Unleaded
-QuikTrip,3/21/2023,8:48:00 AM,9.301,$4.50 ,$41.85 ,Phoenix,AZ,Unleaded
-QuikTrip,4/1/2023,9:28:00 AM,9.257,$4.50 ,$41.65 ,Phoenix,AZ,Unleaded
-QuikTrip,4/10/2023,7:07:00 PM,9.006,$4.50 ,$40.52 ,Phoenix,AZ,Unleaded
-Costco,4/26/2023,1:56:00 PM,9.132,$4.36 ,$39.81 ,Phoenix,AZ,Unleaded
-Costco,5/24/2023,11:10:00 AM,9.283,$4.76 ,$44.18 ,Phoenix,AZ,Unleaded
-Costco,6/7/2023,11:42:00 AM,9.47,$4.50 ,$42.61 ,Phoenix,AZ,Unleaded
-QuikTrip,6/27/2023,8:36:00 AM,8.615,$4.20 ,$36.17 ,Phoenix,AZ,Unleaded
-QuikTrip,7/13/2023,8:30:00 AM,9.083,$3.96 ,$35.96 ,Phoenix,AZ,Unleaded
-QuikTrip,7/31/2023,8:34:00 AM,10.208,$4.00 ,$40.82 ,Phoenix,AZ,Unleaded
-QuikTrip,8/29/2023,8:29:00 AM,9.374,$4.49 ,$42.17 ,Phoenix,AZ,Unleaded
-Costco,9/17/2023,9:59:00 AM,10.045,$4.56 ,$45.80 ,Phoenix,AZ,Unleaded
-QuikTrip,10/4/2023,7:16:00 AM,9.856,$4.76 ,$46.90 ,Phoenix,AZ,Unleaded
-QuikTrip,10/13/2023,5:54:00 PM,9.74,$4.40 ,$42.85 ,Glendale,AZ,Unleaded
-QuikTrip,10/24/2023,8:13:00 AM,8.446,$4.30 ,$36.31 ,Phoenix,AZ,Unleaded
-QuikTrip,11/2/2023,7:54:00 AM,8.976,$4.00 ,$35.90 ,Phoenix,AZ,Unleaded
-QuikTrip,11/13/2023,11:19:00 AM,9.267,$3.86 ,$35.76 ,Phoenix,AZ,Unleaded
-QuikTrip,11/27/2023,7:06:00 AM,8.133,$3.50 ,$28.46 ,Phoenix,AZ,Unleaded
-QuikTrip,12/7/2023,7:22:00 AM,8.619,$3.36 ,$28.95 ,Phoenix,AZ,Unleaded
-QuikTrip,12/16/2023,4:13:00 PM,9.22,$3.26 ,$30.05 ,Phoenix,AZ,Unleaded
-QuikTrip,12/28/2023,7:36:00 AM,9.152,$3.40 ,$31.11 ,Phoenix,AZ,Unleaded
-QuikTrip,1/10/2024,7:28:00 AM,7.839,$3.26 ,$25.55 ,Phoenix,AZ,Unleaded
-QuikTrip,1/20/2024,12:11:00 PM,9.262,$3.16 ,$29.26 ,Phoenix,AZ,Unleaded
 QuikTrip,2/3/2024,10:43:00 AM,9.416,$3.40 ,$32.00 ,Phoenix,AZ,Unleaded
+QuikTrip,1/20/2024,12:11:00 PM,9.262,$3.16 ,$29.26 ,Phoenix,AZ,Unleaded
+QuikTrip,1/10/2024,7:28:00 AM,7.839,$3.26 ,$25.55 ,Phoenix,AZ,Unleaded
+QuikTrip,12/28/2023,7:36:00 AM,9.152,$3.40 ,$31.11 ,Phoenix,AZ,Unleaded
+QuikTrip,12/16/2023,4:13:00 PM,9.22,$3.26 ,$30.05 ,Phoenix,AZ,Unleaded
+QuikTrip,12/7/2023,7:22:00 AM,8.619,$3.36 ,$28.95 ,Phoenix,AZ,Unleaded
+QuikTrip,11/27/2023,7:06:00 AM,8.133,$3.50 ,$28.46 ,Phoenix,AZ,Unleaded
+QuikTrip,11/13/2023,11:19:00 AM,9.267,$3.86 ,$35.76 ,Phoenix,AZ,Unleaded
+QuikTrip,11/2/2023,7:54:00 AM,8.976,$4.00 ,$35.90 ,Phoenix,AZ,Unleaded
+QuikTrip,10/24/2023,8:13:00 AM,8.446,$4.30 ,$36.31 ,Phoenix,AZ,Unleaded
+QuikTrip,10/13/2023,5:54:00 PM,9.74,$4.40 ,$42.85 ,Glendale,AZ,Unleaded
+QuikTrip,10/4/2023,7:16:00 AM,9.856,$4.76 ,$46.90 ,Phoenix,AZ,Unleaded
+Costco,9/17/2023,9:59:00 AM,10.045,$4.56 ,$45.80 ,Phoenix,AZ,Unleaded
+QuikTrip,8/29/2023,8:29:00 AM,9.374,$4.49 ,$42.17 ,Phoenix,AZ,Unleaded
+QuikTrip,7/31/2023,8:34:00 AM,10.208,$4.00 ,$40.82 ,Phoenix,AZ,Unleaded
+QuikTrip,7/13/2023,8:30:00 AM,9.083,$3.96 ,$35.96 ,Phoenix,AZ,Unleaded
+QuikTrip,6/27/2023,8:36:00 AM,8.615,$4.20 ,$36.17 ,Phoenix,AZ,Unleaded
+Costco,6/7/2023,11:42:00 AM,9.47,$4.50 ,$42.61 ,Phoenix,AZ,Unleaded
+Costco,5/24/2023,11:10:00 AM,9.283,$4.76 ,$44.18 ,Phoenix,AZ,Unleaded
+Costco,4/26/2023,1:56:00 PM,9.132,$4.36 ,$39.81 ,Phoenix,AZ,Unleaded
+QuikTrip,4/10/2023,7:07:00 PM,9.006,$4.50 ,$40.52 ,Phoenix,AZ,Unleaded
+QuikTrip,4/1/2023,9:28:00 AM,9.257,$4.50 ,$41.65 ,Phoenix,AZ,Unleaded
+QuikTrip,3/21/2023,8:48:00 AM,9.301,$4.50 ,$41.85 ,Phoenix,AZ,Unleaded
+QuikTrip,3/6/2023,8:38:00 AM,8.739,$3.80 ,$33.20 ,Phoenix,AZ,Unleaded
+QuikTrip,1/14/2023,5:40:00 PM,9.404,$3.30 ,$31.02 ,Phoenix,AZ,Unleaded
+Costco,12/16/2022,1:55:00 PM,9.167,$3.26 ,$29.88 ,Phoenix,AZ,Unleaded
+Costco,11/30/2022,12:27:00 PM,9.679,$3.70 ,$35.80 ,Phoenix,AZ,Unleaded
+Costco,11/7/2022,12:31:00 PM,9.583,$4.19 ,$40.14 ,Phoenix,AZ,Unleaded
+Costco,11/7/2022,12:31:00 PM,9.583,$4.19 ,$40.14 ,Phoenix,AZ,Unleaded
+Costco,9/25/2022,11:41:00 AM,10.036,$4.10 ,$41.14 ,Phoenix,AZ,Unleaded
+Costco,8/17/2022,2:05:00 PM,9.727,$3.75 ,$36.47 ,Phoenix,AZ,Unleaded
+Costco,7/30/2022,2:46:00 PM,9.774,$4.14 ,$40.45 ,Phoenix,AZ,Unleaded
+Costco,7/12/2022,12:44:00 PM,10.803,$4.60 ,$49.68 ,Phoenix,AZ,Unleaded
+Fry's Fuel,3/2/2022,2:29:00 PM,10.148,$3.90 ,$39.57 ,Tempe,AZ,Unleaded
+Costco,8/27/2021,5:09:00 PM,9.964,$2.90 ,$28.89 ,Scottsdale,AZ,Unleaded
+Costco,8/7/2021,3:20:00 PM,10.209,$2.94 ,$30.00 ,Tempe,AZ,Unleaded
+Costco,7/25/2021,4:02:00 PM,11.039,$2.90 ,$32.00 ,Tempe,AZ,Unleaded
+Fry's Fuel,7/17/2021,2:12:00 PM,10.183,$2.89 ,$30.44 ,Phoenix,AZ,Unleaded
+Fry's Fuel,6/21/2021,9:33:00 AM,10.253,$2.65 ,$27.16 ,Phoenix,AZ,Unleaded
+QuikTrip,2/22/2024,7:00:00 AM,8.289,$3.50 ,$29.00 ,Phoenix,AZ,Unleaded
+QuikTrip,3/6/2024,8:17:00 AM,9.347,$3.80 ,$35.51 ,Phoenix,AZ,Unleaded
+QuikTrip,2/15/2024,7:22:00 AM,9.973,,$34.90 ,Phoenix,AZ,Unleaded
