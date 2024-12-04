@@ -38,7 +38,7 @@ QuikTrip,12/28/2023,7:36 AM,9.152,$3.40 ,$31.11 ,Phoenix,AZ,Unleaded
 QuikTrip,1/10/2024,7:28 AM,7.839,$3.26 ,$25.55 ,Phoenix,AZ,Unleaded
 QuikTrip,1/20/2024,12:11 PM,9.262,$3.16 ,$29.26 ,Phoenix,AZ,Unleaded
 QuikTrip,2/3/2024,10:43 AM,9.416,$3.40 ,$32.00 ,Phoenix,AZ,Unleaded
-QuikTrip,2/15/2024,7:22 AM,9.973,,$34.90 ,Phoenix,AZ,Unleaded
+QuikTrip,2/15/2024,7:22 AM,9.973,$3.50 ,$34.90 ,Phoenix,AZ,Unleaded
 QuikTrip,2/22/2024,7:00 AM,8.289,$3.50 ,$29.00 ,Phoenix,AZ,Unleaded
 QuikTrip,3/6/2024,8:17 AM,9.347,$3.80 ,$35.51 ,Phoenix,AZ,Unleaded
 QuikTrip,3/16/2024,8:29 AM,10.004,$3.80 ,$38.01 ,Phoenix,AZ,Unleaded
@@ -61,4 +61,5 @@ QuikTrip,10/8/2024,9:37 AM,8.238,$3.34 ,$27.51 ,Phoenix,AZ,Unleaded
 QuikTrip,10/17/2024,8:27 AM,8.493,$3.24 ,$27.51 ,Phoenix,AZ,Unleaded
 Costco,10/23/2024,5:19 PM,8.483,$2.96 ,$25.10 ,Scottsdale,AZ,Unleaded
 Costco,10/30/2024,5:15 PM,8.516,$3.00 ,$25.54 ,Scottsdale,AZ,Unleaded
-Costco,11/7/2024,5:17 PM,8.790,$2.84 ,$24.95 ,Scottsdale,AZ,Unleaded
+Costco,11/7/2024,5:17 PM,8.79,$2.84 ,$24.95 ,Scottsdale,AZ,Unleaded
+QuikTrip,11/25/2024,8:59 AM,9.396,$3.30 ,$31.00 ,Phoenix,AZ,Unleaded
