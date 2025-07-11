@@ -1,4 +1,5 @@
 ﻿Gas_Station,Date,Time,Gallons,Price,Amount,City,State,Type
+Fry's Fuel,5/5/2021,5:34 PM,10.127,$2.82 ,$28.55 ,Phoenix,AZ,Unleaded
 Fry's Fuel,6/21/2021,9:33 AM,10.253,$2.65 ,$27.16 ,Phoenix,AZ,Unleaded
 Fry's Fuel,7/17/2021,2:12 PM,10.183,$2.89 ,$30.44 ,Phoenix,AZ,Unleaded
 Costco,7/25/2021,4:02 PM,11.039,$2.90 ,$32.00 ,Tempe,AZ,Unleaded
@@ -69,3 +70,9 @@ QuikTrip,1/13/2025,5:05 PM,8.768,$3.00 ,$26.30 ,Mesa,AZ,Unleaded
 QuikTrip,1/21/2025,7:17 AM,10.052,$3.20 ,$32.16 ,Phoenix,AZ,Unleaded
 QuikTrip,1/24/2025,6:25 PM,9.049,$3.20 ,$28.95 ,Phoenix,AZ,Unleaded
 QuikTrip,3/4/2025,7:51 PM,10.319,$3.66 ,$37.76 ,Phoenix,AZ,Unleaded
+Fry's Fuel,4/13/2025,4:59 PM,9.559,$3.30 ,$31.54 ,Phoenix,AZ,Unleaded
+QuikTrip,4/30/2025,4:51 PM,10.876,$3.45 ,$37.51 ,Phoenix,AZ,Unleaded
+QuikTrip,5/20/2025,4:48 PM,10.221,$3.66 ,$37.40 ,Phoenix,AZ,Unleaded
+QuikTrip,6/6/2025,4:39 PM,9.472,$3.50 ,$33.14 ,Phoenix,AZ,Unleaded
+QuikTrip,6/19/2025,4:41 PM,10.298,$3.40 ,$35.00 ,Phoenix,AZ,Unleaded
+QuikTrip,7/7/2025,4:28 PM,9.571,$3.30 ,$31.57 ,Phoenix,AZ,Unleaded
